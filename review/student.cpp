@@ -1,7 +1,7 @@
 #include <iostream> 
 #include <string> 
 #include <iomanip> 
-#include <exception> 
+#include <stdexcept> 
 using namespace std;
 
 class student {
