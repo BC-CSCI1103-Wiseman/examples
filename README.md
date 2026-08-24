@@ -1,2 +1,2 @@
 # examples
-All code examples from class.
+All code examples from CSCI1103 Data Structures.
